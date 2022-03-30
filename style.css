@@ -17,6 +17,7 @@ ul {
 a {
   color: #2d2d2d;
   text-decoration: none;
+  display: inline-block;
 }
 
 /* 共通CSS */
